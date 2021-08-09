@@ -1,9 +1,7 @@
 {
   "name": "tenbajt.pl",
   "version": "1.0.0",
-  "private": true,
-  "description": "tenbajt.pl",
-  "author": "Szymon Mazurczak",
+  "author": "Tenbajt <biuro@tenbajt.pl>",
   "keywords": [
     "gatsby"
   ],
