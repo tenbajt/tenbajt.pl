@@ -1,10 +1,10 @@
 import Head from "react-helmet";
 import React from "react";
-import Style from "../tenbajt/Style";
+import Style from "../lib/Style";
 import Styled from "styled-components";
 import ContactDetails from "../components/ContactDetails";
 import ContactButtonGroup from "../components/ContactButtonGroup";
-import { breakpoint, color, text } from "../tenbajt/constants";
+import { breakpoint, color, text } from "../lib/constants";
 
 const Layout = Styled.div`
     display: grid;
@@ -82,7 +82,7 @@ const Index = () => (
         </Head>
         <Style/>
         <Layout>
-            <Logo src="/images/logo.svg"/>
+            <Logo src="/images/logo/full.svg"/>
             <Heading>
                 Obecnie wprowadzamy<br/>zmiany na naszej stronie
             </Heading>

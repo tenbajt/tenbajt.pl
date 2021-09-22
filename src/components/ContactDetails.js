@@ -1,6 +1,6 @@
 import React from "react";
 import Styled from "styled-components";
-import { breakpoint, color, text } from "../tenbajt/constants";
+import { breakpoint, color, text } from "../lib/constants";
 
 const Layout = Styled.div`
     gap: 0.75rem 2.5rem;

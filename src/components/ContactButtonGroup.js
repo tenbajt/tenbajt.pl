@@ -1,8 +1,8 @@
 import React from "react";
 import Styled from "styled-components";
-import Button from "../tenbajt/Button";
-import ButtonGroup from "../tenbajt/ButtonGroup";
-import { breakpoint, color } from "../tenbajt/constants";
+import Button from "../lib/Button";
+import ButtonGroup from "../lib/ButtonGroup";
+import { breakpoint, color } from "../lib/constants";
 
 const Layout = Styled(ButtonGroup)`
     padding: 0 0.75rem 0.75rem;
