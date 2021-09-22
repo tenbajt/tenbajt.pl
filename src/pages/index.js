@@ -75,10 +75,10 @@ const Index = () => (
             <title>Tenbajt - Outsourcing IT Poznań | Usługi informatyczne dla biznesu</title>
             <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined"/>
             <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"/>
-            <link rel="icon" href="/images/logo/32x32.jpg" size="32x32"/>
-            <link rel="icon" href="/images/logo/192x192.jpg"sizes="192x192"/>
-            <link rel="apple-touch-icon" href="/images/logo/180x180.jpg"/>
-            <meta name="msapplication-TileImage" content="/images/logo/270x270.jpg"/>
+            <link rel="icon" href="/images/logo/32x32.png" size="32x32"/>
+            <link rel="icon" href="/images/logo/192x192.png"sizes="192x192"/>
+            <link rel="apple-touch-icon" href="/images/logo/180x180.png"/>
+            <meta name="msapplication-TileImage" content="/images/logo/270x270.png"/>
         </Head>
         <Style/>
         <Layout>
